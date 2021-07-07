@@ -1,0 +1,1 @@
+# Seri-Paralel-Hesaplama-Karsilastirilmasi
